@@ -1,6 +1,6 @@
 # Learn to use Linux v1
 
-Version 1 of learn to use linux represents a simple way to serve a single flat html file. The setup consists of a single host machine (Ubuntu 18.01) running apache.
+Version 1 of learn to use linux represents a simple way to serve a single flat html file. The setup consists of a single host machine (Ubuntu 18.04) running apache.
 
 ## Basic Setup
 - ssh into the machine using a super user account (likely the ubuntu username)
