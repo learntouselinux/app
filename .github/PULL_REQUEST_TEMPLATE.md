@@ -1,5 +1,3 @@
-@TAG_REVIEWER
-
 ## Fixes Issue(s)
 https://github.com/learntouselinux/learntouselinux/issues/$ISSUE_NUMBER
 
