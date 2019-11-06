@@ -1,5 +1,4 @@
-## Fixes Issue(s)
-https://github.com/learntouselinux/learntouselinux/issues/$ISSUE_NUMBER
+Fixes learntouselinux/learntouselinux#ISSUE_NUMBER
 
 ## Explanation
 [What did you change?]
